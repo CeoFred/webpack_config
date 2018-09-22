@@ -1,3 +1,4 @@
+// use yarn run start to kick start your server
 var path = require('path');
 var HtmlWebpackPlugin = require('html-webpack-plugin');
 
